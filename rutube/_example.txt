@@ -1,0 +1,13 @@
+! f
+! remove carousel
+rutube.ru##.wdp-carousel-module__carouselWrapper
+! remove showcases
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("Популярные каналы"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("Yappy: короткие видео"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("RUTUBE НОВОСТИ"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("ТВ-каналы"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("Shorts"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("Новинки телеканалов"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("Телешоу"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("Спорт"))
+rutube.ru##.wdp-showcase-module__wdp-showcase:has(h2:contains("Новости и события"   ))
