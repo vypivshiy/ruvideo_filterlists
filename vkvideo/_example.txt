@@ -1,6 +1,6 @@
 ! первый экспериментальный конфиг
 ! verified accs ignore
-vk.com##.VideoCard:has(a[class="page_verified"])
+vk.com##.VideoCard:has(.page_verified)
 
 vk.com##.VideoCard:contains("YouTube Kids")
 vk.com##.VideoCard:contains("Батрудинов")
